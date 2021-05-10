@@ -44,8 +44,9 @@ decreases from the middle of the year until the end of the year.
 ![](/images/arrest_stat_20122016.png)
 <br>Based on the graph, it can be seen that the arrest statistic is low (more than 50% of the crimes reported) across the year.
 
-#### Heatmap of correlation between the features 
-![](/images/HRC_Corr.png)
+#### Top 20 Crimes Reported in Chicago: 2012 - 2017
+![](/images/top20_crime_20122017.png)
+<br>Based on the graph, the first 5 crimes reported the most in Chicago from 2012 to 2017 are theft, battery, criminal damage, narcotics and assault. 
 
 #### Heatmap of correlation between the features 
 ![](/images/HRC_Corr.png)
