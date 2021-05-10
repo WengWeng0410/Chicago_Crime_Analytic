@@ -33,11 +33,12 @@ To understand the patterns and values of the data by using different types of vi
 
 #### Number of Crime Reported in Chicago: 2012 - 2017 
 ![](/images/overall_crime_20122017.png)
-<br>Based on the graph, it can be seen that the trend for the crimes reported in chicago is about the same for each year, which is increases at the beginning of the year and decreases from the middle of the year until the end of the year. 
-By using the rolling sum with 365 days, it can be seen that the crime reported is reducing across the year. 
+<br>Based on the graph, it can be seen that the trend for the crimes reported in chicago is about the same for each year, which is increases at the beginning of the year and
+decreases from the middle of the year until the end of the year. 
 
 #### Crime Reported in Chicago (Rolling Sum): 2012 - 2017 
 ![](/images/roll_sum_2012-2017.png)
+<br> By using the rolling sum with 365 days, it can be seen that the crime reported is reducing across the year. 
 
 #### Heatmap of correlation between the features 
 ![](/images/HRC_Corr.png)
