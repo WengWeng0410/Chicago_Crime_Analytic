@@ -60,13 +60,16 @@ decreases from the middle of the year until the end of the year.
 ![](/images/top20_arrest_crimeloc_20122017.png)
 <br>It can be seen that the arrest statistics are very poor for the crimes incident occurred on Street, Residence and Apartment.
 
-#### Heatmap of correlation between the features 
-![](/images/HRC_Corr.png)
+#### Montlhy Crime Reported in Chicago for the Years 2012 - 2016
+![](/images/montly_crime_20122017.png)
+<br>Based on the graph, it can bee seen that the crimes trent are about the same accross the years 2012 - 2016. 
 
-#### Heatmap of correlation between the features 
-![](/images/HRC_Corr.png)
+#### Number of Crime Reported in Different Seasons at Chicago: 2012 - 2017
+![](/images/overall_season_crime_20122017.png)
+<br>Based on the graph, summer is with the highest number of crimes reported and winter is the lowest. 
 
-#### Heatmap of correlation between the features 
-![](/images/HRC_Corr.png)
+#### Distribution of Crime Reported Over A Day (00:00 to 23:59) in Chicago: 2012 - 2017
+![](/images/overall_hourly_crime_20122017.png)
+<br>As shown from the graph, less crimes are committed at the midnight. 
 
 
