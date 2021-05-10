@@ -40,8 +40,9 @@ decreases from the middle of the year until the end of the year.
 ![](/images/roll_sum_2012-2017.png)
 <br> By using the rolling sum with 365 days, it can be seen that the crime reported is reducing across the year. 
 
-#### Heatmap of correlation between the features 
-![](/images/HRC_Corr.png)
+#### Arrest Statistic in Chicago: 2012 - 2016 
+![](/images/arrest_stat_20122016.png)
+<br>Based on the graph, it can be seen that the arrest statistic is low (more than 50% of the crimes reported) across the year.
 
 #### Heatmap of correlation between the features 
 ![](/images/HRC_Corr.png)
