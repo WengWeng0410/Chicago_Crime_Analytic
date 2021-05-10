@@ -56,8 +56,9 @@ decreases from the middle of the year until the end of the year.
 ![](/images/top20_crimeloc_20122017.png)
 <br>Based on the graph, it can be seen that location of Street, Residence, Apartment and Sidewalk are with high number of crimes reported.
 
-#### Heatmap of correlation between the features 
-![](/images/HRC_Corr.png)
+#### Arrest Statistic on Top 20 Locattions with the Most Crimes Reported in Chicago: 2012 - 2017
+![](/images/top20_arrest_crimeloc_20122017.png)
+<br>It can be seen that the arrest statistics are very poor for the crimes incident occurred on Street, Residence and Apartment.
 
 #### Heatmap of correlation between the features 
 ![](/images/HRC_Corr.png)
