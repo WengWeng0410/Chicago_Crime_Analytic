@@ -72,4 +72,6 @@ decreases from the middle of the year until the end of the year.
 ![](/images/overall_hourly_crime_20122017.png)
 <br>As shown from the graph, less crimes are committed at the midnight. 
 
-
+#### Distribution of Top 20 Crimes in Chicago: 2012 - 2017
+![](/images/individual_crime_20122017.png)
+<br>As shown from the graph, less crimes are committed at the midnight. 
