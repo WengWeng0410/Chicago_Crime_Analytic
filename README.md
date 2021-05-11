@@ -74,4 +74,4 @@ decreases from the middle of the year until the end of the year.
 
 #### Distribution of Top 20 Crimes in Chicago: 2012 - 2017
 ![](/images/individual_crimelocation_20122017.png)
-<br>Based on the graphs above, it can be seen that crimes occured have been reduced from 2012 to early of 2017, except for Homicide and Roberry which have increased from 2016. 
+Based on the graphs above, it can be seen that crimes occured have been reduced from 2012 to early of 2017, except for Homicide and Roberry which have increased from 2016. 
