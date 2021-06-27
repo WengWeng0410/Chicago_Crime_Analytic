@@ -10,7 +10,8 @@
 **Python Version:** 3.7 <br>
 **Packages:** numpy, pandas, seaborn, matplotlib, sklearn <br>
 **IDE:** Google Colab <br> 
-**Dataset:** https://www.kaggle.com/currie32/crimes-in-chicago
+**Dataset:** https://www.kaggle.com/currie32/crimes-in-chicago <br>
+**Python Script:** [Notebook](https://colab.research.google.com/drive/1-wBT3r8Q9kfwqzpZLa0_fu5X3qbiEa0j?usp=sharing)
 
 ## Data Gathering
 
