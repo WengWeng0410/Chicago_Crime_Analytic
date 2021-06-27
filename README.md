@@ -1,4 +1,4 @@
-# Chicago_Crime_Analytic
+# Medical Cost Prediction Analytic 
 
 ## <p align="right">[Portfolio Main Page](https://github.com/WengWeng0410/Weng_Portfolio)</p>
 
