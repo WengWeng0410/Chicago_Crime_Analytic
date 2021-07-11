@@ -83,9 +83,11 @@ Based on the graphs above, it can be seen that crimes occured have been reduced 
 ![](/images/individual_crime_20122017.png)
 Based on the graphs above, it can be seen that Restaurant and Commerial/Business Office showing the signs of increasing on the crimes occured. 
 
-#### Crime Trend from 2012 to 2017: CRIME
+#### Crime Trend from 2012 to 2017: BATTERY
 ![](/images/Monthly_BATTERY.png)
+sdsd
 ![](/images/Weekly_BATTERY2012.png)
+sdsdsd
 ![](/images/Weekly_BATTERY2013.png)
 ![](/images/Weekly_BATTERY2014.png)
 ![](/images/Weekly_BATTERY2015.png)
