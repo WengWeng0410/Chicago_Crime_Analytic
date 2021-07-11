@@ -82,3 +82,27 @@ Based on the graphs above, it can be seen that crimes occured have been reduced 
 #### Top 29 Locations with Most Crimes Reported in Chicago: 2012 - 2017
 ![](/images/individual_crime_20122017.png)
 Based on the graphs above, it can be seen that Restaurant and Commerial/Business Office showing the signs of increasing on the crimes occured. 
+
+#### Crime Trend from 2012 to 2017: CRIME
+![](/images/Monthly_BATTERY.png)
+![](/images/Weekly_BATTERY2012.png)
+![](/images/Weekly_BATTERY2013.png)
+![](/images/Weekly_BATTERY2014.png)
+![](/images/Weekly_BATTERY2015.png)
+![](/images/Weekly_BATTERY2016.png)
+
+#### Crime Trend from 2012 to 2017: CRIME
+![](/images/Monthly_Burglary.png)
+![](/images/Weekly_Burglary2012.png)
+![](/images/Weekly_Burglary2013.png)
+![](/images/Weekly_Burglary2014.png)
+![](/images/Weekly_Burglary2015.png)
+![](/images/Weekly_Burglary2016.png)
+
+#### Crime Trend from 2012 to 2017: PROSTITUTION
+![](/images/Monthly_PROSTITUTION.png)
+![](/images/Weekly_PROSTITUTION2012.png)
+![](/images/Weekly_PROSTITUTION2013.png)
+![](/images/Weekly_PROSTITUTION2014.png)
+![](/images/Weekly_PROSTITUTION2015.png)
+![](/images/Weekly_PROSTITUTION2016.png)
